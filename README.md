@@ -1,6 +1,4 @@
 # Q-Learning
-# Q-Learning
-YazLab 5. Proje
 
 ### Daha fazla bilgi için --> [Proje Raporu](https://github.com/sevkikaragol/Q-Learning/blob/main/rapor.pdf)
 
